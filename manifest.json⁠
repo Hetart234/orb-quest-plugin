@@ -1,0 +1,12 @@
+{
+  "name": "OrbQuestAutomator",
+  "description": "Automates Discord Orb and video/game quests directly inside Kettu/rain.",
+  "authors": [
+    {
+      "name": "User",
+      "id": "1234567890"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "index.js"
+}
